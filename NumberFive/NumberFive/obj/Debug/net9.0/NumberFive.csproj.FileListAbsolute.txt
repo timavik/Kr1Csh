@@ -1,0 +1,14 @@
+D:\csharp\NumberFive\NumberFive\obj\Debug\net9.0\NumberFive.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\NumberFive\NumberFive\obj\Debug\net9.0\NumberFive.AssemblyInfoInputs.cache
+D:\csharp\NumberFive\NumberFive\obj\Debug\net9.0\NumberFive.AssemblyInfo.cs
+D:\csharp\NumberFive\NumberFive\obj\Debug\net9.0\NumberFive.csproj.CoreCompileInputs.cache
+D:\csharp\NumberFive\NumberFive\bin\Debug\net9.0\NumberFive.exe
+D:\csharp\NumberFive\NumberFive\bin\Debug\net9.0\NumberFive.deps.json
+D:\csharp\NumberFive\NumberFive\bin\Debug\net9.0\NumberFive.runtimeconfig.json
+D:\csharp\NumberFive\NumberFive\bin\Debug\net9.0\NumberFive.dll
+D:\csharp\NumberFive\NumberFive\bin\Debug\net9.0\NumberFive.pdb
+D:\csharp\NumberFive\NumberFive\obj\Debug\net9.0\NumberFive.dll
+D:\csharp\NumberFive\NumberFive\obj\Debug\net9.0\refint\NumberFive.dll
+D:\csharp\NumberFive\NumberFive\obj\Debug\net9.0\NumberFive.pdb
+D:\csharp\NumberFive\NumberFive\obj\Debug\net9.0\NumberFive.genruntimeconfig.cache
+D:\csharp\NumberFive\NumberFive\obj\Debug\net9.0\ref\NumberFive.dll

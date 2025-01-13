@@ -1,0 +1,14 @@
+D:\csharp\NumberFour\NumberFour\bin\Debug\net9.0\NumberFour.exe
+D:\csharp\NumberFour\NumberFour\bin\Debug\net9.0\NumberFour.deps.json
+D:\csharp\NumberFour\NumberFour\bin\Debug\net9.0\NumberFour.runtimeconfig.json
+D:\csharp\NumberFour\NumberFour\bin\Debug\net9.0\NumberFour.dll
+D:\csharp\NumberFour\NumberFour\bin\Debug\net9.0\NumberFour.pdb
+D:\csharp\NumberFour\NumberFour\obj\Debug\net9.0\NumberFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\NumberFour\NumberFour\obj\Debug\net9.0\NumberFour.AssemblyInfoInputs.cache
+D:\csharp\NumberFour\NumberFour\obj\Debug\net9.0\NumberFour.AssemblyInfo.cs
+D:\csharp\NumberFour\NumberFour\obj\Debug\net9.0\NumberFour.csproj.CoreCompileInputs.cache
+D:\csharp\NumberFour\NumberFour\obj\Debug\net9.0\NumberFour.dll
+D:\csharp\NumberFour\NumberFour\obj\Debug\net9.0\refint\NumberFour.dll
+D:\csharp\NumberFour\NumberFour\obj\Debug\net9.0\NumberFour.pdb
+D:\csharp\NumberFour\NumberFour\obj\Debug\net9.0\NumberFour.genruntimeconfig.cache
+D:\csharp\NumberFour\NumberFour\obj\Debug\net9.0\ref\NumberFour.dll
