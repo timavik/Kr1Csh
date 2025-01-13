@@ -1,0 +1,14 @@
+D:\csharp\NumberTwo\NumberTwo\obj\Debug\net9.0\NumberTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\NumberTwo\NumberTwo\obj\Debug\net9.0\NumberTwo.AssemblyInfoInputs.cache
+D:\csharp\NumberTwo\NumberTwo\obj\Debug\net9.0\NumberTwo.AssemblyInfo.cs
+D:\csharp\NumberTwo\NumberTwo\obj\Debug\net9.0\NumberTwo.csproj.CoreCompileInputs.cache
+D:\csharp\NumberTwo\NumberTwo\bin\Debug\net9.0\NumberTwo.exe
+D:\csharp\NumberTwo\NumberTwo\bin\Debug\net9.0\NumberTwo.deps.json
+D:\csharp\NumberTwo\NumberTwo\bin\Debug\net9.0\NumberTwo.runtimeconfig.json
+D:\csharp\NumberTwo\NumberTwo\bin\Debug\net9.0\NumberTwo.dll
+D:\csharp\NumberTwo\NumberTwo\bin\Debug\net9.0\NumberTwo.pdb
+D:\csharp\NumberTwo\NumberTwo\obj\Debug\net9.0\NumberTwo.dll
+D:\csharp\NumberTwo\NumberTwo\obj\Debug\net9.0\refint\NumberTwo.dll
+D:\csharp\NumberTwo\NumberTwo\obj\Debug\net9.0\NumberTwo.pdb
+D:\csharp\NumberTwo\NumberTwo\obj\Debug\net9.0\NumberTwo.genruntimeconfig.cache
+D:\csharp\NumberTwo\NumberTwo\obj\Debug\net9.0\ref\NumberTwo.dll

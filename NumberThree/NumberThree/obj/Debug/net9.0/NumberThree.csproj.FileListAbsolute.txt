@@ -1,0 +1,14 @@
+D:\csharp\NumberThree\NumberThree\obj\Debug\net9.0\NumberThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\NumberThree\NumberThree\obj\Debug\net9.0\NumberThree.AssemblyInfoInputs.cache
+D:\csharp\NumberThree\NumberThree\obj\Debug\net9.0\NumberThree.AssemblyInfo.cs
+D:\csharp\NumberThree\NumberThree\obj\Debug\net9.0\NumberThree.csproj.CoreCompileInputs.cache
+D:\csharp\NumberThree\NumberThree\bin\Debug\net9.0\NumberThree.exe
+D:\csharp\NumberThree\NumberThree\bin\Debug\net9.0\NumberThree.deps.json
+D:\csharp\NumberThree\NumberThree\bin\Debug\net9.0\NumberThree.runtimeconfig.json
+D:\csharp\NumberThree\NumberThree\bin\Debug\net9.0\NumberThree.dll
+D:\csharp\NumberThree\NumberThree\bin\Debug\net9.0\NumberThree.pdb
+D:\csharp\NumberThree\NumberThree\obj\Debug\net9.0\NumberThree.dll
+D:\csharp\NumberThree\NumberThree\obj\Debug\net9.0\refint\NumberThree.dll
+D:\csharp\NumberThree\NumberThree\obj\Debug\net9.0\NumberThree.pdb
+D:\csharp\NumberThree\NumberThree\obj\Debug\net9.0\NumberThree.genruntimeconfig.cache
+D:\csharp\NumberThree\NumberThree\obj\Debug\net9.0\ref\NumberThree.dll

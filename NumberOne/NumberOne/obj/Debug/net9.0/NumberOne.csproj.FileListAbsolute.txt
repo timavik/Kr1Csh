@@ -1,0 +1,14 @@
+D:\csharp\NumberOne\NumberOne\bin\Debug\net9.0\NumberOne.exe
+D:\csharp\NumberOne\NumberOne\bin\Debug\net9.0\NumberOne.deps.json
+D:\csharp\NumberOne\NumberOne\bin\Debug\net9.0\NumberOne.runtimeconfig.json
+D:\csharp\NumberOne\NumberOne\bin\Debug\net9.0\NumberOne.dll
+D:\csharp\NumberOne\NumberOne\bin\Debug\net9.0\NumberOne.pdb
+D:\csharp\NumberOne\NumberOne\obj\Debug\net9.0\NumberOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\NumberOne\NumberOne\obj\Debug\net9.0\NumberOne.AssemblyInfoInputs.cache
+D:\csharp\NumberOne\NumberOne\obj\Debug\net9.0\NumberOne.AssemblyInfo.cs
+D:\csharp\NumberOne\NumberOne\obj\Debug\net9.0\NumberOne.csproj.CoreCompileInputs.cache
+D:\csharp\NumberOne\NumberOne\obj\Debug\net9.0\NumberOne.dll
+D:\csharp\NumberOne\NumberOne\obj\Debug\net9.0\refint\NumberOne.dll
+D:\csharp\NumberOne\NumberOne\obj\Debug\net9.0\NumberOne.pdb
+D:\csharp\NumberOne\NumberOne\obj\Debug\net9.0\NumberOne.genruntimeconfig.cache
+D:\csharp\NumberOne\NumberOne\obj\Debug\net9.0\ref\NumberOne.dll
